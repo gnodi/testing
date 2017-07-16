@@ -11,7 +11,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "@gnodi/eslint-config": "^0.1.0",
+    "@gnodi/eslint-config": "^0.4.0",
     "istanbul": "^0.4.0",
     "jasmine": "^2.5.2",
     "karma": "^1.3.0",
